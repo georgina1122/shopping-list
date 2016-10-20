@@ -5,3 +5,5 @@ beer
 tequila 
 smoothies
 tea
+cocktail
+margarita
