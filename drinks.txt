@@ -3,3 +3,5 @@ vodka
 orange juice
 beer 
 tequila 
+smoothies
+tea
